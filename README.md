@@ -36,17 +36,17 @@
 
 ### Задание 2
 
-![alt text](https://github.com/AleksandrBakunin/Redis-memcached/blob/main/C:/"Program Files"/Git/Redis-memcached/Redis-memcached/img/memcached1.jpg)
+![alt text](https://github.com/AleksandrBakunin/Redis-memcached/blob/main/img/memcached1.jpg)
 
 ---
 
 ### Задание 3
 
-![alt text](https://github.com/AleksandrBakunin/Redis-memcached/blob/main/C:/"Program Files"/Git/Redis-memcached/Redis-memcached/img/memcached2.jpg)
+![alt text](https://github.com/AleksandrBakunin/Redis-memcached/blob/main/img/memcached2.jpg)
 
 ### Задание 4
 
-![alt text](https://github.com/AleksandrBakunin/Redis-memcached/blob/main/C:/"Program Files"/Git/redis-memcached/Redis-memcached/img/redis.jpg)
+![alt text](https://github.com/AleksandrBakunin/Redis-memcached/blob/main/img/redis.jpg)
 
 ---
 ## Дополнительные задания (со звездочкой*)
@@ -55,4 +55,4 @@
 
 ### Задание 5
 
-![alt text](https://github.com/AleksandrBakunin/Redis-memcached/blob/main/C:/"Program Files"/Git/Redis-memcached/Redis-memcached/img/redis2.jpg)
+![alt text](https://github.com/AleksandrBakunin/Redis-memcached/blob/main/img/redis2.jpg)
